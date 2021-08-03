@@ -3,7 +3,7 @@ Create interactive quizzes in your markdown `.mdx` files
 
 ## Installation
 
-`npm install --save gatsby-remark-quizdown`
+`npm install --save gatsby-remark-quizdown quizdown`
 
 Then add the plugin to your `gatsby-config.js`.
 
